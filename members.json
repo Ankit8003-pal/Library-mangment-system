@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Ankit kumar",
+        "member_id": "9d185eef",
+        "borrowed_books": [
+            "1425"
+        ]
+    },
+    {
+        "name": "Ravi",
+        "member_id": "b88d92b2",
+        "borrowed_books": []
+    },
+    {
+        "name": "Aakash",
+        "member_id": "035baef5",
+        "borrowed_books": []
+    },
+    {
+        "name": "Amar",
+        "member_id": "ff309adc",
+        "borrowed_books": []
+    },
+    {
+        "name": "Harsh",
+        "member_id": "c7722179",
+        "borrowed_books": []
+    }
+]

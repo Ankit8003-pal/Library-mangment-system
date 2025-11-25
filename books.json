@@ -1,0 +1,26 @@
+[
+    {
+        "title": "data Structure",
+        "author": "Dr.Pankaj Agrawal",
+        "isbn": "1234",
+        "available": true
+    },
+    {
+        "title": "Pyhton",
+        "author": "Neha Kaushik",
+        "isbn": "1234",
+        "available": true
+    },
+    {
+        "title": "Data science",
+        "author": "nikhil sir",
+        "isbn": "1425",
+        "available": false
+    },
+    {
+        "title": "Full Stack development",
+        "author": "Sp Acharya",
+        "isbn": "6352",
+        "available": true
+    }
+]
